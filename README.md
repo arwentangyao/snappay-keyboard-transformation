@@ -1,4 +1,4 @@
-## Setup/Installation Requirements
+## Setup
 
 * Type the following into the Command Line to open the program in the default browser: "Open index.html"
 
